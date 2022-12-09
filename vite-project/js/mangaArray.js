@@ -1,4 +1,4 @@
-mangaList: [
+const mangaList = [
 {
     name: "Ayashimon",
     author: "Yuji Kaku",
@@ -10,13 +10,13 @@ mangaList: [
     author: "Tatsuki Fujimoto",
     dateReleased: "12-2018",
     genre: ["Action", "Horror"]
-}
+},
 {
     name:"Kaiju no.8",
     author:"Naoya Matsumoto",
     dateReleased:"07-2020",
     genre: ["Adventure", "Sci-Fi"]
-}
+},
 {
     name:"Monster",
     author:"Noaki Urasawa",
@@ -48,4 +48,4 @@ mangaList: [
     genre:["Adventure", "Action"]
 }]
 
-export {mangaList}
+export { mangaList }
