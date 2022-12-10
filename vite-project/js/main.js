@@ -1,4 +1,4 @@
-import "../styles/styles.css"
+import "../styles/style.css"
 import { mangaList } from "./mangaArray";
 import { DOM } from "./DOM";
 
