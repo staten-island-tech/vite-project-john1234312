@@ -1,0 +1,81 @@
+const mangaList = [
+  {
+    name: "Ayashimon",
+    author: "Yuji Kaku",
+    dateReleased: "11-2021",
+    genre: ["Action", "Sci-Fi"],
+    cover: "/ayashimonCover.jpg",
+  },
+  {
+    name: "Chainsaw Man",
+    author: "Tatsuki Fujimoto",
+    dateReleased: "12-2018",
+    genre: ["Action", "Horror"],
+    cover: "/chainsawmanCover.jpg",
+  },
+  {
+    name: "Kaiju no.8",
+    author: "Naoya Matsumoto",
+    dateReleased: "07-2020",
+    genre: ["Adventure", "Sci-Fi"],
+    cover: "/kaijuNo8Cover.jpg",
+  },
+  {
+    name: "Monster",
+    author: "Noaki Urasawa",
+    dateReleased: "12-1994",
+    genre: ["Crime", "Mystery", "Psychological Thriller"],
+    cover: "/monsterCover.jpg",
+  },
+  {
+    name: "Grappler Baki",
+    author: "Keisuku Itagaki",
+    dateReleased: "10-1991",
+    genre: ["Action", "Martial Arts"],
+    cover: "/bakiCover.png",
+  },
+  {
+    name: "Another",
+    author: "Yukito Ayatsuji",
+    dateReleased: "10-2009",
+    genre: ["Mystery", "Horror", "Psychological Thriller"],
+    cover: "/anotherCover.jpg",
+  },
+  {
+    name: "Death Note",
+    author: "Tsugumi Ohba",
+    dateReleased: "12-2003",
+    genre: ["Mystery", "Psychological Thriller"],
+    cover: "/deathNoteCover.jpg",
+  },
+  {
+    name: "Berserk",
+    author: "Kentaro Miura",
+    dateReleased: "08-1989",
+    genre: ["Adventure", "Action"],
+    cover: "/berserkCover.jpg",
+  },
+  {
+    name: "Vagabond",
+    author: "Takehiko Inoue",
+    dateReleased: "09-1998",
+    genre: ["Action", "Adventure"],
+    cover: "/vagabondCover.jpg",
+  },
+  {
+    name: "20th Century Boys",
+    author: "Noaki Urasawa",
+    dateReleased: "01-2000",
+    genre: ["Mystery", "Psychological Thriller"],
+    cover: "/20thCenturyBoys.jpg",
+  },
+  {
+    name: "Jojo's Bizarre Adventure",
+    author: "Hirohiko Araki",
+    dateReleased: "01-1987",
+    genre: ["Adventure", "Action"],
+    cover: "/jojosCover.jpg",
+  },
+];
+
+export { mangaList };
