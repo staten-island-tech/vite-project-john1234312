@@ -7,5 +7,3 @@ const DOM = {
 };
 
 export { DOM };
-
-/* hello! */

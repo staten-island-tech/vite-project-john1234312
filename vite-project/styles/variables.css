@@ -1,0 +1,18 @@
+:root {
+    --h1: 5rem;
+    --h2: 3rem;
+}
+
+.calm {
+    --primaryColor: #0A0A0A;
+    --secondaryColor: #000080;
+    --backgroundColor: #d4af37;
+    --buttonColor: #F5F5DC;
+}
+
+.excited {
+    --primaryColor: red;
+    --secondaryColor: orange;
+    --backgroundColor: brown;
+    --buttonColor: red;
+}
